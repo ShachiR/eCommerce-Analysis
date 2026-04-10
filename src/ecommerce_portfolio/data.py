@@ -6,8 +6,8 @@ from pathlib import Path
 import pandas as pd
 
 BASE_DIR = Path(__file__).resolve().parents[2]
-OLIST_DIR = BASE_DIR / "data"
-EVENTS_DIR = BASE_DIR / "data"
+OLIST_DIR = BASE_DIR / "Data"
+EVENTS_DIR = BASE_DIR / "Data"
 
 
 @dataclass
