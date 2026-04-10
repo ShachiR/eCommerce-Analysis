@@ -2,8 +2,7 @@
 
 Interactive Streamlit dashboard analyzing 100K+ Brazilian e-commerce orders from the Olist dataset.
 
-**Live App:** [View on Streamlit Cloud](https://shachi-ecommerce-portfolio.streamlit.app)  
-*(link will work after Step 6)*
+**Live App:** [View on Streamlit Cloud](https://ecommerce-analysis-npwkzujfkjou93gfjfvw5k.streamlit.app/)
 
 ## Features
 - **Exploratory Data Analysis** — temporal, product, geographic patterns with interactive filters
