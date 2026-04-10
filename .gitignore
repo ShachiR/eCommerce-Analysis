@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.streamlit/secrets.toml
+sample/
+notebook.ipynb
+notebook_with_outputs.ipynb
+project-one-notion-page.md
+README_notion.md
+Data/Data/
+Data/olist_geolocation_dataset.csv
